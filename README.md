@@ -13,7 +13,7 @@ Originally inspired by the GameSense player model changer concept, this project 
 Below is an in-game screenshot demonstrating the script in action.
 
 <p align="center">
-    <img src="./INGAME.png" alt="In-Game Preview" width="900"/>
+    <img src="./preview.png" alt="In-Game Preview" width="900"/>
 </p>
 
 ---
