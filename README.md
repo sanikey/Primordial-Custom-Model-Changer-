@@ -1,4 +1,4 @@
-# Primordial Custom Model Changer
+# Primordial Custom Model Changer ⭐
 
 A lightweight and fully featured custom player model changer for **Primordial CS:GO**.
 
